@@ -1,0 +1,33 @@
+/* game.css */
+@font-face {
+	font-family: 'PlanesValMore';
+	src: url( '../assets/PlanesValMore.woff' );
+}
+
+@font-face {
+	font-family: 'HeartbitXX';
+	src: url( '../assets/HeartbitXX.woff' );
+}
+
+@font-face {
+	font-family: 'BitFont';
+	src: url( '../assets/BitFont.woff' );
+}
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+
+#viewport {
+	height: 100%;
+	width: 100%;
+	background: url( "../assets/forest.png" );
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -webkit-crisp-edges;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+}
