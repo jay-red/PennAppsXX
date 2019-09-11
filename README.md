@@ -35,7 +35,7 @@ The boss will turn invisible. During the time that it is transparent, it can not
 **Sicko Mode**  
 The boss will spawn several different fireballs in criss-crossing directions, with gaps between the projectiles for you to dodge in between. The fireballs will not start moving immediately, giving the player time to identify the gaps and stay within them. While there are still fireballs on screen, the boss' movement speed will be greatly reduced, but contact with the boss will still instantly kill you.
 
-#### Controls
+### Controls
 
 **Movement**  
 Left Arrow - Move Left  
