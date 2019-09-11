@@ -24,7 +24,7 @@ You can only fire in the four cardinal directions (up, down, left, right). There
 
 #### Boss Mechanics
 
-The boss has three different phases that it will randomly alternate between:
+The boss has three different attack patterns that it will randomly alternate between:
 
 **Idle**  
 The boss moves towards you; any contact with the boss will instantly kill you.
